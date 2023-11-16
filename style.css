@@ -1,0 +1,24 @@
+.bold {
+    font-weight:bold
+}
+
+.nav-bar {
+    background-color: maroon;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.footer {
+    background-color: lime;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    background-color: fuchsia;
+    padding: 20px;
+    margin: 10px;
+    height: 600px;
+
+}
